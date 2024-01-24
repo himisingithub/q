@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["𝗜𝗦𝗙 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗦𝗜𝗚𝗡𝗜𝗡𝗚 𝗕𝗢𝗧"];
 
 
 let currentIndex = 0;
